@@ -9,6 +9,6 @@
   "license": "ISC",
   "description": "",
   "dependencies": {
-    "is-number": "2.0.1"
+    "is-number": "7.0.0"
   }
 }
